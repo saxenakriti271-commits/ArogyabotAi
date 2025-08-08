@@ -1,0 +1,7 @@
+streamlit==1.47.1
+pandas
+requests
+geocoder
+groq
+gTTS
+SpeechRecognition
